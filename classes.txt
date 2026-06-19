@@ -1,1 +1,9 @@
+flex justify-start items-center gap-2 fixed justify-center left-0 right-0 bottom-4 z-0 md:right-1 md:left-auto md:top-1/2 md:bottom-auto md:w-10 md:flex-col md:translate-y-[-50%] md:z-10
+footer-warp
+flex justify-start items-center gap-2 px-3 mb-4 justify-center
+flx-ce-ce share-btn btn
+/blogs
+
+
+
 
