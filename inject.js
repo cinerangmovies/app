@@ -1,29 +1,29 @@
 {
-  "version":3,
+  "version": 3,
 
-  "scripts":[
+  "scripts": [
 
     {
-      "id":"banner",
+      "id": "banner",
 
-      "page":"*",
+      "page": "*",
 
 
-      "insert":{
+      "insert": {
 
-        "mode":"before",
+        "mode": "before",
 
-        "selector":".flx-ce-bet.search-input-box"
+        "selector": ".flx-ce-bet.search-input-box"
 
       },
 
 
-      "html":"<div id='cinerang-banner'><div class='cinerang-card'><span>Cinerang.online | Watch Free Movies & TV Shows</span></div></div>",
+      "html": "<div id='cinerang-banner'><div class='cinerang-card'><span>Cinerang.online | Watch Free Movies & TV Shows</span></div></div>",
 
 
-      "css":"
+      "css": "
 
-#cinerang-banner{
+#cinerang-banner {
 
 width:100%;
 
@@ -35,17 +35,21 @@ padding:15px 12px;
 
 box-sizing:border-box;
 
+background:#f98b1a !important;
+
+border-radius:32px !important;
+
 }
 
 
 
-.cinerang-card{
+.cinerang-card {
 
 width:100%;
 
 max-width:700px;
 
-background:#f98b1a;
+background:#f98b1a !important;
 
 padding:20px 25px;
 
@@ -61,9 +65,9 @@ box-sizing:border-box;
 
 
 
-.cinerang-card span{
+.cinerang-card span {
 
-color:white;
+color:white !important;
 
 font-size:20px;
 
@@ -75,7 +79,7 @@ font-weight:600;
 
 @media(max-width:480px){
 
-.cinerang-card{
+.cinerang-card {
 
 padding:16px;
 
@@ -84,7 +88,7 @@ border-radius:25px;
 }
 
 
-.cinerang-card span{
+.cinerang-card span {
 
 font-size:15px;
 
