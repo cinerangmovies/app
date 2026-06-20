@@ -1,5 +1,5 @@
 {
-  "version":2,
+  "version":3,
 
   "scripts":[
 
@@ -18,12 +18,12 @@
       },
 
 
-      "html":"<div class='cinerang-banner'><div class='cinerang-card'><span>Cinerang.online | Watch Free Movies & TV Shows</span></div></div>",
+      "html":"<div id='cinerang-banner'><div class='cinerang-card'><span>Cinerang.online | Watch Free Movies & TV Shows</span></div></div>",
 
 
       "css":"
 
-.cinerang-banner{
+#cinerang-banner{
 
 width:100%;
 
@@ -69,14 +69,11 @@ font-size:20px;
 
 font-weight:600;
 
-letter-spacing:-0.01em;
-
 }
 
 
 
 @media(max-width:480px){
-
 
 .cinerang-card{
 
@@ -87,14 +84,11 @@ border-radius:25px;
 }
 
 
-
 .cinerang-card span{
 
 font-size:15px;
 
 }
-
-
 
 }
 
