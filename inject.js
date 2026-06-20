@@ -1,53 +1,107 @@
 {
-"version":1,
+  "version":2,
+
+  "scripts":[
+
+    {
+      "id":"banner",
+
+      "page":"*",
 
 
-"scripts":[
+      "insert":{
 
-{
+        "mode":"before",
 
-"id":"banner",
+        "selector":".flx-ce-bet.search-input-box"
 
-"page":"*",
-
-
-"insert":{
-
-"mode":"before",
-
-"selector":".flx-ce-bet.search-input-box"
-
-},
+      },
 
 
-"html":
-
-"<div class='cinerang-card'>Cinerang.online | Watch Free Movies & TV Shows</div>",
+      "html":"<div class='cinerang-banner'><div class='cinerang-card'><span>Cinerang.online | Watch Free Movies & TV Shows</span></div></div>",
 
 
-"css":
+      "css":"
 
-"
+.cinerang-banner{
+
+width:100%;
+
+display:flex;
+
+justify-content:center;
+
+padding:15px 12px;
+
+box-sizing:border-box;
+
+}
+
+
+
 .cinerang-card{
+
+width:100%;
+
+max-width:700px;
 
 background:#f98b1a;
 
-color:white;
+padding:20px 25px;
 
-padding:20px;
+border-radius:32px;
 
-border-radius:30px;
+box-shadow:0 16px 32px -8px rgba(200,90,0,0.25);
 
 text-align:center;
 
+box-sizing:border-box;
+
+}
+
+
+
+.cinerang-card span{
+
+color:white;
+
 font-size:20px;
+
+font-weight:600;
+
+letter-spacing:-0.01em;
+
+}
+
+
+
+@media(max-width:480px){
+
+
+.cinerang-card{
+
+padding:16px;
+
+border-radius:25px;
+
+}
+
+
+
+.cinerang-card span{
+
+font-size:15px;
+
+}
+
+
 
 }
 
 "
 
-}
+    }
 
-]
+  ]
 
 }
