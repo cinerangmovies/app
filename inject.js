@@ -14,8 +14,8 @@
       "html": "<div id='test-banner-2' style='background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 15px; text-align: center; border-radius: 8px; margin: 10px; box-shadow: 0 4px 15px rgba(245,87,108,0.4);'><h3 style='color: white; margin: 0;'>🔥 TEST INJECTION 2</h3><p style='color: #ffe0e0; margin: 5px 0 0 0;'>Sflix Test Banner</p></div>",
       "css": "#test-banner-2 { animation: pulse 2s infinite; } @keyframes pulse { 0% { transform: scale(1); } 50% { transform: scale(1.02); } 100% { transform: scale(1); } }",
       "insert": {
-        "mode": "before",
-        "selector": "header"
+        "mode": "after",
+        "selector": "search-warp flx-clm-ce-sta"
       }
     },
     {
