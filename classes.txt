@@ -4,5 +4,6 @@ flex justify-start items-center gap-2 fixed justify-center left-0 right-0 bottom
 logo-img
 logo-title text-center
 footer-warp
+art-control art-control-pip hint--rounded hint--top
 w-full pt-12 pb-8 px-4 md:px-12 border-t border-[#333] pb-8
 flex items-center justify-between h-[56px] px-4 gap-3 md:h-[68px] md:px-12 md:gap-6 min-w-0 max-w-[1880px] mx-auto
