@@ -1,0 +1,94 @@
+####################################################
+# TECHOVRA REMOTE ADS CONFIG
+# Version 1.0
+####################################################
+
+config.version=1
+config.enabled=true
+config.forceReload=false
+
+####################################################
+# START.IO
+####################################################
+
+startio.enabled=true
+startio.appId=205113894
+
+####################################################
+# INMOBI
+####################################################
+
+inmobi.enabled=true
+inmobi.accountId=e041b11879eb4cc58dddbacf4ee71517
+
+inmobi.bannerId=10000742480
+inmobi.interstitialId=10000749134
+inmobi.rewardedId=10000742470
+
+####################################################
+# BANNER ADS
+####################################################
+
+banner.enabled=true
+
+# startio
+# inmobi
+# waterfall
+# off
+
+banner.mode=waterfall
+
+banner.priority=startio,inmobi
+
+# START.IO SETTINGS
+
+banner.startio.count=6
+banner.startio.timers=20,40,60,80,100,120
+
+# INMOBI SETTINGS
+
+banner.inmobi.reload=60
+
+####################################################
+# INTERSTITIAL ADS
+####################################################
+
+interstitial.enabled=true
+
+# startio
+# inmobi
+# waterfall
+# off
+
+interstitial.mode=waterfall
+
+interstitial.priority=inmobi,startio
+
+# Show every X triggers
+interstitial.interval=4
+
+####################################################
+# REWARDED ADS
+####################################################
+
+reward.enabled=true
+
+# startio
+# inmobi
+# link
+# waterfall
+# off
+
+reward.mode=waterfall
+
+reward.priority=inmobi,startio,link
+
+reward.link=https://reward.techovra.com
+
+####################################################
+# OPTIONAL GLOBAL SETTINGS
+####################################################
+
+ads.retryDelay=3
+ads.timeout=8
+ads.debug=false
