@@ -38,7 +38,7 @@ banner.enabled=true
 
 banner.mode=waterfall
 
-banner.priority=inmobi,startio
+banner.priority=inmobi
 
 # START.IO SETTINGS
 
