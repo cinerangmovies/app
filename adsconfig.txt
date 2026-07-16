@@ -18,7 +18,7 @@ startio.appId=205113894
 # INMOBI
 ####################################################
 
-inmobi.enabled=true
+inmobi.enabled=false
 inmobi.accountId=e041b11879eb4cc58dddbacf4ee71517
 
 inmobi.bannerId=10000742480
