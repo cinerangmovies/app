@@ -79,7 +79,7 @@ reward.enabled=true
 # waterfall
 # off
 
-reward.mode=waterfall
+reward.mode=inmobi
 
 reward.priority=inmobi,startio,link
 
