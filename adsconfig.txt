@@ -18,7 +18,7 @@ startio.appId=205113894
 # INMOBI
 ####################################################
 
-inmobi.enabled=false
+inmobi.enabled=true
 inmobi.accountId=e041b11879eb4cc58dddbacf4ee71517
 
 inmobi.bannerId=10000742480
@@ -36,9 +36,9 @@ banner.enabled=true
 # waterfall
 # off
 
-banner.mode=waterfall
+banner.mode=startio
 
-banner.priority=stario
+banner.priority=startio
 
 # START.IO SETTINGS
 
