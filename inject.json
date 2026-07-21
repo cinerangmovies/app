@@ -1,19 +1,1 @@
-{
-  "enabled": true,
-  "sections": [
-    {
-      "name": "Vignette Ad",
-      "enabled": true,
 
-      "position": "before",
-
-      "selector": "body",
-
-      "html": "",
-
-      "css": "",
-
-      "javascript": "(function(){var s=document.createElement('script');s.dataset.zone='9530630';s.src='https://n6wxm.com/vignette.min.js';(document.documentElement||document.body).appendChild(s);})();"
-    }
-  ]
-}
