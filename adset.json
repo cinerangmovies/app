@@ -1,0 +1,91 @@
+{
+  "banner": {
+    "enabled": true,
+    "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7l2rk82IOSBSQxyQsinpbmAeCm4zwG2X81LgdiOgPDOKWJ3Sh83NO7MrnzDqhIJI2LUL0q53ae_gXdMlzwv9qX1vMnsX1OondVwDSCV9a2oFKt59cTpQqGWbFMBHftsx2x2ojjs-kdw0n1ZZV24-zCjqcSvRSuejMe-Cgevc0YxApTZgfwLMB5pRdQgZ4/s320/buy_now_banner_320x50.png",
+    "clickUrl": "https://dash-core.techovra.com",
+    "cacheTtlMs": 172800000,
+    "cacheFile": "banner_image_cache.png",
+    "cachePrefs": "banner_image_prefs",
+    "cacheKeyTime": "banner_image_time",
+    "cacheKeyUrl": "banner_image_url"
+  },
+
+  "interstitialOne": {
+    "enabled": false,
+    "closeDelayMs": 6000,
+    "cooldownMs": 30000,
+    "cooldownMoviePageMs": 60000,
+    "imageCacheTtlMs": 172800000,
+    "cacheFile": "ad_popup_image_cache.png",
+    "cachePrefs": "ad_popup_image_prefs",
+    "cacheKeyTime": "ad_popup_image_time",
+    "cacheKeyUrl": "ad_popup_image_url",
+    "items": [
+      {
+        "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4JbOTfzuwrDcVPVuKTtmfqCrZ-uDVzWUsz5r9tnm8OH3QMqe3_KtsdtgeNyRZYJJAuaRT455PMDo-B8p1bXroU3_PPr2nI8VCZp9i-fmj52LSTW1pjqfmcDTKc6wwY__rjZpf8lmby8UXkZwySfqNfFmli6SupQKIxmY1gatK9bnG-tuv79uXCDYVhuq7/s512/cinerang_icon.png",
+        "title": "BE FIT AT HOME",
+        "buttonText": "BUY NOW",
+        "buttonUrl": "https://play.google.com/store/apps/details?id=com.dts.freefireth"
+      },
+      {
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA4nFtdTGDhjculqiNFeLJm6CKamsL7COQ4q-lWpuooA&s=10",
+        "title": "Travel Today",
+        "buttonText": "Visit Now",
+        "buttonUrl": "https://techovra.com"
+      }
+    ]
+  },
+
+  "interstitialTwo": {
+    "enabled": true,
+    "closeDelayMs": 10000,
+    "longCloseDelayMs": 25000,
+    "cooldownMs": 30000,
+    "cooldownMoviePageMs": 60000,
+    "urls": [
+      "https://dash-core.blogspot.com",
+      "https://www.google.com",
+      "https://all-movie.techovra.com"
+    ]
+  },
+
+  "interstitialThree": {
+    "enabled": true,
+    "closeDelayMs": 30000,
+    "firstIntervalMs": 600000,
+    "firstMinMs": 900000,
+    "firstMaxMs": 1800000,
+    "repeatMinMs": 1560000,
+    "repeatMaxMs": 2100000,
+    "minGapAfterInterstitialMs": 600000,
+    "urls": [
+      "https://techovra.com",
+      "https://youtube.com",
+      "https://moviebox.ph"
+    ]
+  },
+
+  "movieGate": {
+    "continueAdEnabled": false,
+    "message": "Watch a Short ad to continue.",
+    "label": "ADVERTISEMENT",
+    "closeSymbol": "✕",
+    "continueText": "CONTINUE",
+    "urls": [
+      "https://dash-core.blogspot.com",
+      "https://facebook.com"
+    ]
+  },
+
+  "externalDialog": {
+    "label": "ADVERTISEMENT",
+    "closeSymbol": "✕",
+    "openBrowserSymbol": "↗"
+  },
+
+  "sharedAdUi": {
+    "label": "ADVERTISEMENT",
+    "closeSymbol": "✕",
+    "openBrowserSymbol": "↗"
+  }
+}
