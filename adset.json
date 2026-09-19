@@ -77,12 +77,6 @@
     ]
   },
 
-  "externalDialog": {
-    "label": "ADVERTISEMENT",
-    "closeSymbol": "✕",
-    "openBrowserSymbol": "↗"
-  },
-
   "sharedAdUi": {
     "label": "ADVERTISEMENT",
     "closeSymbol": "✕",
