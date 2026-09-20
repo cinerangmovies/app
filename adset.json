@@ -52,7 +52,7 @@
   "interstitialThree": {
     "enabled": true,
     "closeDelayMs": 30000,
-    "firstIntervalMs": 600000,
+    "firstIntervalMs": 60000,
     "firstMinMs": 900000,
     "firstMaxMs": 1800000,
     "repeatMinMs": 1560000,
