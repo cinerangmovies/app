@@ -58,7 +58,7 @@
     "repeatMinMs": 1560000,
     "repeatMaxMs": 2100000,
     "minGapAfterInterstitialMs": 600000,
-    "countdownWindowMs": 6000,
+    "countdownWindowMs": 540000,
     "urls": [
       "https://techovra.com",
       "https://youtube.com",
