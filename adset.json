@@ -52,12 +52,13 @@
   "interstitialThree": {
     "enabled": true,
     "closeDelayMs": 30000,
-    "firstIntervalMs": 60000,
+    "firstIntervalMs": 600000,
     "firstMinMs": 900000,
     "firstMaxMs": 1800000,
     "repeatMinMs": 1560000,
     "repeatMaxMs": 2100000,
     "minGapAfterInterstitialMs": 600000,
+    "countdownWindowMs": 6000,
     "urls": [
       "https://techovra.com",
       "https://youtube.com",
