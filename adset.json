@@ -43,7 +43,7 @@
     "cooldownMs": 30000,
     "cooldownMoviePageMs": 60000,
     "urls": [
-      "https://travel.techovra.com"
+      "https://travel.techovra.com",
       "https://bozy.com",
       "https://www.google.com",
       "https://all-movie.techovra.com"
