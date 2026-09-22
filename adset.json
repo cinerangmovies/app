@@ -60,7 +60,7 @@
     "minGapAfterInterstitialMs": 600000,
     "countdownWindowMs": 480000,
     "urls": [
-      "https://techovra.com",
+      "https://travel.techovra.com",
       "https://youtube.com",
       "https://moviebox.ph"
     ]
