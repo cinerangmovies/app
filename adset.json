@@ -67,7 +67,7 @@
   },
 
   "movieGate": {
-    "continueAdEnabled": false,
+    "continueAdEnabled": true,
     "message": "Watch a Short ad to continue.",
     "label": "ADVERTISEMENT",
     "closeSymbol": "✕",
