@@ -1,6 +1,6 @@
 {
   "banner": {
-    "enabled": false,
+    "enabled": true,
     "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7l2rk82IOSBSQxyQsinpbmAeCm4zwG2X81LgdiOgPDOKWJ3Sh83NO7MrnzDqhIJI2LUL0q53ae_gXdMlzwv9qX1vMnsX1OondVwDSCV9a2oFKt59cTpQqGWbFMBHftsx2x2ojjs-kdw0n1ZZV24-zCjqcSvRSuejMe-Cgevc0YxApTZgfwLMB5pRdQgZ4/s320/buy_now_banner_320x50.png",
     "clickUrl": "https://dash-core.techovra.com",
     "cacheTtlMs": 172800000,
@@ -68,7 +68,7 @@
   },
 
   "movieGate": {
-    "continueAdEnabled": true,
+    "continueAdEnabled": false,
     "message": "Watch a Short ad to continue.",
     "label": "ADVERTISEMENT",
     "closeSymbol": "✕",
