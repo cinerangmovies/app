@@ -51,7 +51,7 @@
   },
 
   "interstitialThree": {
-    "enabled": false,
+    "enabled": true,
     "closeDelayMs": 30000,
     "firstIntervalMs": 600000,
     "firstMinMs": 900000,
@@ -61,9 +61,7 @@
     "minGapAfterInterstitialMs": 600000,
     "countdownWindowMs": 480000,
     "urls": [
-      "https://travel.techovra.com",
-      "https://youtube.com",
-      "https://moviebox.ph"
+      "https://games.techovra.com"
     ]
   },
 
