@@ -59,7 +59,7 @@
     "repeatMinMs": 1560000,
     "repeatMaxMs": 2100000,
     "minGapAfterInterstitialMs": 600000,
-    "countdownWindowMs": 480000,
+    "countdownWindowMs": 60000,
     "urls": [
       "https://games.techovra.com"
     ]
