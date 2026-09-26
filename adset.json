@@ -37,16 +37,13 @@
   },
 
   "interstitialTwo": {
-    "enabled": false,
+    "enabled": true,
     "closeDelayMs": 10000,
     "longCloseDelayMs": 25000,
     "cooldownMs": 30000,
     "cooldownMoviePageMs": 60000,
     "urls": [
-      "https://travel.techovra.com",
-      "https://bozy.com",
-      "https://www.google.com",
-      "https://all-movie.techovra.com"
+      "https://games.techovra.com"
     ]
   },
 
