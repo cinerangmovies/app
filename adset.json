@@ -37,7 +37,7 @@
   },
 
   "interstitialTwo": {
-    "enabled": true,
+    "enabled": false,
     "closeDelayMs": 10000,
     "longCloseDelayMs": 25000,
     "cooldownMs": 30000,
