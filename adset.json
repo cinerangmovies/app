@@ -58,6 +58,7 @@
     "minGapAfterInterstitialMs": 600000,
     "countdownWindowMs": 60000,
     "urls": [
+      "https://www.techovra.com/",
       "https://travel.techovra.com/2026/09/why-travelers-visit-agra-2026.html",
       "https://games.techovra.com"
     ]
