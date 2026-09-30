@@ -56,7 +56,7 @@
     "repeatMinMs": 1560000,
     "repeatMaxMs": 2100000,
     "minGapAfterInterstitialMs": 600000,
-    "countdownWindowMs": 60000,
+    "countdownWindowMs": 20000,
     "urls": [
       "https://www.techovra.com/p/animals-clicker.html",
       "https://www.techovra.com/",
