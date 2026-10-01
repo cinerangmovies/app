@@ -58,9 +58,7 @@
     "minGapAfterInterstitialMs": 600000,
     "countdownWindowMs": 20000,
     "urls": [
-      "https://www.techovra.com/p/animals-clicker.html",
-      "https://www.techovra.com/",
-      "https://travel.techovra.com/2026/09/why-travelers-visit-agra-2026.html",
+      "https://www.techovra.com/"
     ]
   },
 
@@ -78,7 +76,7 @@
 
   "sharedAdUi": {
     "label": "ADVERTISEMENT",
-    "closeSymbol": "✕",
+    "closeSymbol": "✖",
     "openBrowserSymbol": "↗"
   }
 }
